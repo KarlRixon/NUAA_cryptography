@@ -1,0 +1,11 @@
+In this assignment you are given a uniquely designed rocket ship, represented by a Rocket object, and tasked with landing the rocket on a platform floating in the sea. The different tasks lead you through a sequence of steps designed for you to get to know your rocket and to learn how to control it.
+
+To start please enter your student ID into the cell below.
+
+In this assignment you are given a uniquely designed rocket ship, represented by a Rocket object, and tasked with landing the rocket on a platform floating in the sea. The different tasks lead you through a sequence of steps designed for you to get to know your rocket and to learn how to control it.
+
+To start please enter your student ID into the cell below.
+
+In this assignment you are given a uniquely designed rocket ship, represented by a Rocket object, and tasked with landing the rocket on a platform floating in the sea. The different tasks lead you through a sequence of steps designed for you to get to know your rocket and to learn how to control it.
+
+To start please enter your student ID into the cell below.

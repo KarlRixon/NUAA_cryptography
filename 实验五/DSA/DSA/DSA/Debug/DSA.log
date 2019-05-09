@@ -1,0 +1,34 @@
+﻿生成启动时间为 2019/1/7 0:14:26。
+     1>项目“C:\Users\24346\Documents\密码学实验\实验五\DSA\DSA\DSA\DSA.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt dsa.cpp
+         dsa.cpp
+     1>c:\program files (x86)\microsoft visual studio 14.0\vc\include\ntl\lip.h(375): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+     1>c:\program files (x86)\microsoft visual studio 14.0\vc\include\ntl\zz.h(99): warning C4800: “long”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>c:\users\24346\documents\密码学实验\实验五\dsa\dsa\dsa\dsa.cpp(208): warning C4244: “=”: 从“double”转换到“unsigned long”，可能丢失数据
+     1>c:\users\24346\documents\密码学实验\实验五\dsa\dsa\dsa\dsa.cpp(211): warning C4244: “=”: 从“double”转换到“unsigned long”，可能丢失数据
+     1>c:\users\24346\documents\密码学实验\实验五\dsa\dsa\dsa\dsa.cpp(214): warning C4244: “=”: 从“double”转换到“unsigned long”，可能丢失数据
+     1>c:\users\24346\documents\密码学实验\实验五\dsa\dsa\dsa\dsa.cpp(217): warning C4244: “=”: 从“double”转换到“unsigned long”，可能丢失数据
+     1>c:\users\24346\documents\密码学实验\实验五\dsa\dsa\dsa\dsa.cpp(220): warning C4244: “=”: 从“double”转换到“unsigned long”，可能丢失数据
+     1>c:\users\24346\documents\密码学实验\实验五\dsa\dsa\dsa\dsa.cpp(223): warning C4244: “=”: 从“double”转换到“unsigned long”，可能丢失数据
+     1>c:\users\24346\documents\密码学实验\实验五\dsa\dsa\dsa\dsa.cpp(226): warning C4244: “=”: 从“double”转换到“unsigned long”，可能丢失数据
+     1>c:\users\24346\documents\密码学实验\实验五\dsa\dsa\dsa\dsa.cpp(229): warning C4244: “=”: 从“double”转换到“unsigned long”，可能丢失数据
+     1>c:\users\24346\documents\密码学实验\实验五\dsa\dsa\dsa\dsa.cpp(232): warning C4244: “=”: 从“double”转换到“unsigned long”，可能丢失数据
+     1>c:\users\24346\documents\密码学实验\实验五\dsa\dsa\dsa\dsa.cpp(237): warning C4101: “len”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\24346\Documents\密码学实验\实验五\DSA\DSA\Debug\DSA.exe" /INCREMENTAL /NOLOGO ntl.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\24346\Documents\密码学实验\实验五\DSA\DSA\Debug\DSA.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\24346\Documents\密码学实验\实验五\DSA\DSA\Debug\DSA.lib" /MACHINE:X86 Debug\dsa.obj
+     1>ntl.lib(BasicThreadPool.obj) : warning LNK4099: 未找到 PDB“NTL.pdb”(使用“ntl.lib(BasicThreadPool.obj)”或在“C:\Users\24346\Documents\密码学实验\实验五\DSA\DSA\Debug\NTL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ntl.lib(ctools.obj) : warning LNK4099: 未找到 PDB“NTL.pdb”(使用“ntl.lib(ctools.obj)”或在“C:\Users\24346\Documents\密码学实验\实验五\DSA\DSA\Debug\NTL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ntl.lib(fileio.obj) : warning LNK4099: 未找到 PDB“NTL.pdb”(使用“ntl.lib(fileio.obj)”或在“C:\Users\24346\Documents\密码学实验\实验五\DSA\DSA\Debug\NTL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ntl.lib(GetPID.obj) : warning LNK4099: 未找到 PDB“NTL.pdb”(使用“ntl.lib(GetPID.obj)”或在“C:\Users\24346\Documents\密码学实验\实验五\DSA\DSA\Debug\NTL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ntl.lib(GetTime.obj) : warning LNK4099: 未找到 PDB“NTL.pdb”(使用“ntl.lib(GetTime.obj)”或在“C:\Users\24346\Documents\密码学实验\实验五\DSA\DSA\Debug\NTL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ntl.lib(lip.obj) : warning LNK4099: 未找到 PDB“NTL.pdb”(使用“ntl.lib(lip.obj)”或在“C:\Users\24346\Documents\密码学实验\实验五\DSA\DSA\Debug\NTL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ntl.lib(thread.obj) : warning LNK4099: 未找到 PDB“NTL.pdb”(使用“ntl.lib(thread.obj)”或在“C:\Users\24346\Documents\密码学实验\实验五\DSA\DSA\Debug\NTL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ntl.lib(tools.obj) : warning LNK4099: 未找到 PDB“NTL.pdb”(使用“ntl.lib(tools.obj)”或在“C:\Users\24346\Documents\密码学实验\实验五\DSA\DSA\Debug\NTL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+     1>ntl.lib(ZZ.obj) : warning LNK4099: 未找到 PDB“NTL.pdb”(使用“ntl.lib(ZZ.obj)”或在“C:\Users\24346\Documents\密码学实验\实验五\DSA\DSA\Debug\NTL.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+         DSA.vcxproj -> C:\Users\24346\Documents\密码学实验\实验五\DSA\DSA\Debug\DSA.exe
+     1>已完成生成项目“C:\Users\24346\Documents\密码学实验\实验五\DSA\DSA\DSA\DSA.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:04.41
